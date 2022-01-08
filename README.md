@@ -8,8 +8,8 @@ This is an ongoing survey, but the current data has been exported from the onlin
 
 ## The methodology
 With each request the user is presented with a random image, chosen from the */img* directory. 
-They can decide to **skip** the image (-1 response value), or rate its readability the image. 
-The rating can be **yes** (+1 response value) or **no** (0 response value). 
+They can decide to **skip** the image, or rate its readability the image. 
+The rating can be **yes** or **no**. 
 
 # Questions and comments
 Are welcome, please send them to: @WSzP [peter@kaizen-ux.com]
