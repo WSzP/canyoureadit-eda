@@ -1,16 +1,14 @@
 # Scrap notebooks for testing purposes
 scraps/
 
-# .idea folder
-.idea/
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
-# VS Code
+# VS Code and PyCharm
 .vscode/
+.idea/
 
 # C extensions
 *.so
