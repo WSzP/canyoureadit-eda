@@ -4,7 +4,7 @@ IMAGES = r'data/images_'+TIMESTAMP+'.csv'
 DESKTOP = r'data/response_desktop_'+TIMESTAMP+'.csv'
 MOBILE = r'data/response_mobile_'+TIMESTAMP+'.csv'
 SAVEPATH = r'data/canyoureadit.csv'
-EXPORTDIR = 'data/export'
+EXPORTDIR = r'export/'
 
 # Text formatting constants
 class T:
