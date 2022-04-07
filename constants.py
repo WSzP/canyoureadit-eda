@@ -1,5 +1,6 @@
 # Path constants
-TIMESTAMP = '202201080305'
+TIMESTAMP = '202204071925'
+ENDTIME = '4/7/2022'
 IMAGES = r'data/images_'+TIMESTAMP+'.csv'
 DESKTOP = r'data/response_desktop_'+TIMESTAMP+'.csv'
 MOBILE = r'data/response_mobile_'+TIMESTAMP+'.csv'
